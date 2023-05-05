@@ -1,0 +1,66 @@
+/*
+- centrar las etiquetas header, main, section, footer
+-centar h1 y h2
+- poner de varios colores la etiquetas main footer, header
+ nav
+*/
+
+header{
+    background-color: blue;
+}
+nav{
+    background-color: aqua;
+}
+
+nav{
+    background-color: darkgoldenrod;
+}
+
+
+p {
+    color: navy;
+}
+
+li {
+    color: chartreuse;
+
+}
+
+nav{
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+}
+.titulo {
+
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+}
+
+footer{
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+}
+
+#intro {
+    background-color: cadetblue;
+
+}
+
+
+#contenidos {
+    background-color: darkkhaki;
+}
+
+li p {
+    line-height: 1.2;
+}
+
+footer{
+    background-color: aquamarine;
+}
